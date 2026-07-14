@@ -13,7 +13,7 @@ tags:
 
 Most businesses run A/B tests to measure impact between two groups. But those groups are frequently not the same. One group is self-selected, they don't represent the population of interest. The comparison is biased from the start! This is the "selection bias" problem — and it silently inflates ROI estimates (or produce less precise estimates), misleads strategy, and leads to poor resource allocation. So, how to solve the problem of being unable to randomly assign in your research or if it is too costly?
 
-![experimental_vs_psm](/assets/images/causal.jpg)
+![experimental_vs_psm](/assets/images/causal.jpg){: .align-center width="70%"}
 
 That's where Quasi-experimental methods becomes powerful.
 
