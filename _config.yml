@@ -10,7 +10,6 @@
 
 # Site settings
 title: "Dr. Orhan Kaplan | Data Science Consulting"
-logo: "/assets/images/university_logo1.png"
 email: orhankaplan@gantep.edu.tr
 description: "Data science consulting, predictive analytics, and causal modeling solutions by Dr. Kaplan"
 twitter_username: username
@@ -74,6 +73,7 @@ defaults:
     values:
       background: "/assets/images/cut_background.png"
       # Drops a sleek, semi-transparent dark tint blanket over the background image
+      logo: "/assets/images/university_logo1.png"
       overlay_color: "#0f172a"
       overlay_filter: "0.85" 
   # _posts
