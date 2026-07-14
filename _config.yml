@@ -55,11 +55,15 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Orhan Kaplan"
+  name   : "Orhan Kaplan, PhD"
   avatar : "/assets/images/bio_photo.jpg"
-  bio    : "Senior Data Scientist/Analyst & Consultant, Researcher, Academic, Mathematician, Predictive & Causal Modeling, Machine Learning"
+  bio    : >-
+    Senior Data Scientist/Analyst & Consultant, Researcher, Academic, Mathematician, Predictive & Causal Modeling, Machine Learning.
+    I am actively available for independent consulting engagements, freelance contract projects, and dedicated data science roles.
+    <br><br>
+    <img src="/assets/images/university_logo1.png" style="width: 70px; margin-right: 10px; filter: brightness(0) invert(1);" alt="University Logo 1">
   links:
-    - label: "Linkedin"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/orhan-kaplan-phd-5a4a84212/"
     - label: "GitHub"
