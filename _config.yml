@@ -11,9 +11,8 @@
 # Site settings
 title: "Dr. Orhan Kaplan | Data Science Consulting"
 email: orhankaplan@gantep.edu.tr
-description: "Senior Data Scientist/Analyst & Consultant, Researcher, Mathematician, Predictive & Causal Modeling, Machine Learning"
-twitter_username: username
-github_username: username
+description: "Welcome to my portfolio. I am Dr. Orhan Kaplan, a Senior Data Scientist, Researcher, and Mathematician specializing in translating complex data into high-ROI business solutions. My expertise lies at the intersection of advanced predictive modeling, causal inference, and machine learning operations."
+github_username: nalpako2027
 minimal_mistakes_skin: dark
 search: true
 
