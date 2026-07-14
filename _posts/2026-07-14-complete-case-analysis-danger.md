@@ -87,6 +87,6 @@ Newman, D. A. (2014). Missing data: Five practical guidelines. *Organizational R
 
 Rubin, D. B. (1987). *Multiple imputation for nonresponse in surveys*. Wiley.
 
-Spielhagen, F. R. (2006). Closing the achievement gap in math: The long-term effects of eighth-grade algebra. *Journal of Advanced Academics, 18*(1), 34–59.
+Spielhagen, F. R. (2006). Closing the achievement gap in math: The long-term effects of eighth-grade algebra. *Journal of Advanced Academics, 18*(1), 34–59. https://doi.org/10.4219/jaa-2006-344
 
 Van Buuren, S. (2018). *Flexible imputation of missing data* (2nd ed.). CRC Press.
