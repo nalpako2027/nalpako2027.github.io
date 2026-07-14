@@ -1,8 +1,0 @@
----
-# This blank front matter forces Jekyll to compile Sass.
----
-
-
-// Load the core theme files first
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
-@import "minimal-mistakes"; 
