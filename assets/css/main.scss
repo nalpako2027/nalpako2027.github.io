@@ -2,9 +2,7 @@
 # This blank front matter forces Jekyll to compile Sass.
 ---
 
-// 1. Load the core theme files first
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
-@import "minimal-mistakes"; 
+
 
 // 2. Apply your custom styling overrides right on top
 body {
@@ -15,6 +13,10 @@ body {
   background-attachment: fixed !important;
   color: #E2E8F0 !important;
 }
+
+// 1. Load the core theme files first
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
+@import "minimal-mistakes"; 
 
 // 3. Force headers, sidebars, and paragraphs to contrast cleanly
 h1, h2, h3, h4, h5, h6, p, a, .sidebar, .archive, .masthead__menu-item a {
