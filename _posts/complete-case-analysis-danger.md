@@ -53,9 +53,12 @@ Newman's (2014) methodological guidance points in the same direction from a diff
 
 Complete-case analysis isn't wrong because it's lazy. It's wrong because it makes an invisible assumption — that missingness is unrelated to the outcome you care about — and that assumption rarely survives contact with real educational data. Students who are missing achievement scores, SES information, or self-efficacy ratings are not a random subset of the population. They tend to be the students already facing the steepest odds, which means the analysis that drops them tends to understate the very disparities it set out to describe.
 
-The fix isn't complicated in principle: flag your complete cases, compare them to your incomplete cases on every variable that matters, and let that comparison tell you whether your missingness is a nuisance or a warning sign. In this case, it was clearly the latter — and multiple imputation, not listwise deletion, produced the estimates that actually represent the population the study intended to describe.
+The fix isn't complicated in principle: flag your complete cases, compare them to your incomplete cases on every variable that matters, and let that comparison tell you whether your missingness is a nuisance or a warning sign. In this case, it was clearly the latter — and multiple imputation, not listwise deletion, produced the estimates that actually represent the population the study intended to describe.  
+
 
 Although this analysis originates from educational research, its implications can be applied directly to any data science setting outside of academia. Businesses routinely build models based on incomplete records, such as customer surveys with skipped fields, transaction logs with dropped sessions and sensor data with outages. Defaulting to listwise deletion in this context carries the same hidden risk: the customers, transactions or regions with missing data are rarely random, and excluding them can systematically underestimate churn risk, misprice segments or hide the very disparities that fairness or credit-scoring models are designed to detect. Failing to impute data is not just a loss of sample size and statistical power; it is a decision, often made unnoticed, to allow the model's representation of 'the customer' or 'the population' to be disproportionately influenced by those who filled out the survey. Therefore, in the private sector, viewing imputation as a significant modelling choice rather than an optional step is one of the most effective ways to prevent the deployment of a flawed model.
+
+
 ---
 
 **References**
