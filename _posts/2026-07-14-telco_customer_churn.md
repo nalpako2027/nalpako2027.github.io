@@ -5,8 +5,10 @@ show_excerpts: false
 categories:
   - Repository
 tags:
-  - link
-  - Post Formats
+  - machine learning
+  - logistic regression
+  - knn
+  - business insights
 link: "https://github.com/nalpako2027/telco_customer_churn_prediction_simulation"
 ---
 
