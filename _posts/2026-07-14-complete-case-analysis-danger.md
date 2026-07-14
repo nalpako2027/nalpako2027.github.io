@@ -1,5 +1,5 @@
 ---
-title: "The Danger of "Just Dropping the Missing Cases"
+title: "The Danger of 'Just Dropping the Missing Cases'"
 categories:
   - Blog
 tags:
