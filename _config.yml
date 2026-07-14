@@ -118,4 +118,4 @@ tag_archive:
 # Global Background Override
 page:
   background:
-    image: "/assets/images/background.png"
+    image: "/assets/images/cut_background.png"
