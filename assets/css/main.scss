@@ -16,6 +16,10 @@ body {
   background-attachment: fixed !important;
 }
 
+// 3. Force all headings, sidebars, navigation links, and archive lists to turn white
+h1, h2, h3, h4, h5, h6, p, a, .sidebar, .archive, .masthead__menu-item a {
+  color: #FFFFFF !important;
+}
 
 
  
