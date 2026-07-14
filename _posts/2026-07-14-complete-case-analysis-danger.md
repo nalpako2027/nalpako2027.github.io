@@ -1,5 +1,5 @@
 ---
-title: "The Danger of 'Just Dropping the Missing Cases'"
+title: "The Danger of 'Just Dropping the Missing Cases🔍'"
 categories:
   - Blog
 tags:
@@ -11,7 +11,6 @@ tags:
   - Teacher Deficit Beliefs
 ---
 
-## The Danger of "Just Dropping the Missing Cases" 🔍 
 
 Majority of researchers/data analysts in social sciences or relevant private sectors pull the easy button during analysis: let their statistical software (e.g., Stata or SPSS) quietly discard every row with a blank cell with respect to the variables of interest. It's called listwise deletion, or complete-case analysis. The sample shrinks, and they move on, feeling that that is a harmless move. And sometime it is! Some even go so far as to delete incomplete cases 'from the data' without any theoretical justification, or cherry-pick data to find 'significant results'. I will not discuss this, as it is tantamount to manipulating the data. This not only invalidates any results obtained, but is also completely unethical!
 
