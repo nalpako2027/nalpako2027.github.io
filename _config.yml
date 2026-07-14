@@ -83,6 +83,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_excerpts: false
       comments: true
       share: true
       related: true
