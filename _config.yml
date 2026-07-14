@@ -64,13 +64,13 @@ author:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/orhan-kaplan-phd-5a4a84212/" target:\"_blank"
+      url: "https://www.linkedin.com/in/orhan-kaplan-phd-5a4a84212/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nalpako2027?tab=repositories" target:\"_blank"
+      url: "https://github.com/nalpako2027?tab=repositories"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=1q5Kk4UAAAAJ&hl=en" target:\"_blank"
+      url: "https://scholar.google.com/citations?user=1q5Kk4UAAAAJ&hl=en"
 
 footer:
   links:
