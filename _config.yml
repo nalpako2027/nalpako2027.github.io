@@ -15,15 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: "Dr. Orhan Kaplan | Data Science Consulting"
 # Site settings
-title: Orhan KAPLAN, PhD
-minimal_mistakes_skin: contrast # High contrast dark slate background blocks with crisp white text
 logo: "/assets/images/university_logo1.png" # Puts your logo at the very top header navbar!
 
 email: orhankaplan@gantep.edu.tr
 description: "Data science consulting, predictive analytics, and causal modeling solutions by Dr. Kaplan"
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
