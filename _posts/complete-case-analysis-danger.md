@@ -4,24 +4,24 @@ Majority of researchers/data analysts in social sciences or relevant private sec
 
 Anyway, "shrinking the sample a little" undersells what actually happens. Recently, I conducted an analysis using High School Longitudinal Study (HSLS); running the regression model on complete cases alone cut the sample from over 19,000 students to just 6,368 — roughly a two-thirds reduction. That's not a minor footnote. It's the difference between a study and a shadow of one.
 
-Moreover, my study was about whether mathematics teachers' deficit beliefs (TDB) influence students' long-term mathematics achievement. The huge reduction in the sample made me think: who are more likely to leave equity-related items unanswered?
+Moreover, my study was about whether mathematics teachers' deficit beliefs (TDB) and Early Algebra Enrollment influence students' long-term mathematics achievement. The huge reduction in the sample size raised the question of who is more likely to leave equity-related items unanswered.
 
 ### ⚠️ The Sensitivity Check That Told a Bigger Story
 
-I imputed the data using Multiple Imputation by Chained Equations (MICE) and run the analysis on imputed data. As a robustness check, I ran the same regression on complete cases. The coefficient pattern looked broadly similar across specifications, which is reassuring on its face. 
-In the complete-case model, the TDB subgroup coefficients lost statistical significance due to larger standard errors. It would be tempting to read that as "the effect isn't really there." It's more accurate to read it as "we no longer have enough people to detect it." A sample cut by two-thirds doesn't just cost precision — it can quietly erase an effect that was real in the full data, simply by starving the model of power.
+I imputed the data using Multiple Imputation by Chained Equations (MICE) and run the analysis on imputed data. As a robustness check, I ran the same regression model on complete cases. The coefficient pattern looked roughly similar across specifications, which is reassuring on its face. 
+However, in the complete-case model, the TDB subgroup coefficients lost statistical significance due to larger standard errors. It would be tempting to read that as "the effect isn't really there." It's more accurate to read it as "we no longer have enough people to detect it." A sample cut by two-thirds doesn't just cost precision — it can quietly erase an effect that was real in the full data, simply by starving the model of power.
 
 ### 📉 But Power Loss Was Only Half the Problem...
 
-Here's the harder question, and the one that actually matters for interpretation: *who* was excluded? If missingness were purely random noise, the shrunken sample would still be a fair, if smaller, mirror of the population. It isn't. Listwise deletion doesn't discard cases evenly — it discards them systematically, according to whatever process generated the missing data in the first place.
+Here's the harder question, and the one that actually matters for interpretation: *who* was excluded during list-wise deletion? If missingness were purely random noise, the shrunken sample would still be a fair, if smaller, mirror of the population. It isn't. Listwise deletion doesn't always discard cases evenly — it may discard them systematically, according to whatever process generated the missing data in the first place.
 
-The study's independent variable (Early Algebra I placement) is not a neutral variable to study through this lens. A substantial line of research — Adelman (2006), Spielhagen (2006), and McEachin et al. (2020) among others — has established that early algebra functions as a gateway into advanced mathematics pathways, and that this gateway matters disproportionately for students from lower-SES backgrounds. If the students most likely to benefit from early acceleration are also the students most likely to be dropped from a complete-case sample, the analysis isn't just less precise — it's structurally biased against detecting the very effect it set out to measure.
+The study's variables of interest (TDB and Early Algebra I placement) are not a neutral variables to study through this lens. A substantial line of research — Adelman (2006), Spielhagen (2006), and McEachin et al. (2020) among others — has established that early algebra functions as a gateway into advanced mathematics pathways, and that this gateway matters disproportionately for students from lower-SES backgrounds. If the students most likely to benefit from early acceleration or negatively affected by TDB are also the students most likely to be dropped from a complete-case sample, the analysis isn't just less precise — it's structurally biased against detecting the very effect it set out to measure.
 
 So the study didn't stop at noticing the standard errors ballooned. It asked directly: are the excluded cases different in kind, not just in number?
 
 ### 📊 Letting the Data Answer the Question
 
-For the post-hoc comparison, I flagged every complete case in the overall sample and compared its descriptive profile — using student weights — against every case that had been dropped due to missing data on at least one model variable.
+For the post-hoc comparison, I flagged every complete case in the overall sample and compared its descriptive profile (using student weight, BRR weights etc.) against every case that had been dropped due to missing data on at least one model variable.
 
 | Variable | Complete cases (N=6,368) | Incomplete cases (N=12,866) |
 |---|---|---|
@@ -37,7 +37,7 @@ For the post-hoc comparison, I flagged every complete case in the overall sample
 | Black or Hispanic | 0.269 | 0.376 |
 | English language learner | 0.014 | 0.030 |
 
-The students who survived listwise deletion arrived with higher baseline achievement, higher SES, higher self-efficacy, higher expectations — their own and their parents' — and were less likely to be Black, Hispanic, English language learners, or enrolled in public schools. The students who got dropped were, almost across the board, the more disadvantaged — precisely the group the Early-Algebra literature identifies as standing to gain the most from that early placement.
+The students who survived listwise deletion arrived with higher baseline achievement, higher SES, higher self-efficacy, higher expectations — their own and their parents' — and were less likely to be Black, Hispanic, English language learners, or enrolled in public schools. The students who got dropped were, almost across the board, the more disadvantaged — precisely the group the Early-Algebra literature identifies as standing to gain the most from that early placement (and likely to be negatively affected by TDB).
 
 This is the mechanism by which complete-case analysis quietly biases a study: it doesn't announce itself as bias. It shows up as reduced significance, and it's easy to file that under "we just didn't have enough power." But when the missingness is entangled with the very demographic characteristics that predict the outcome of interest, what looks like a power problem is also a validity problem. The two are tangled together, and separating them requires exactly the kind of diagnostic comparison shown above.
 
