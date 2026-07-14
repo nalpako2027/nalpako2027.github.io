@@ -3,7 +3,7 @@ title: "Project: 🚀 Sci‑Fi Movie Recommendation System Using KNN Collaborati
 layout: single
 show_excerpts: false
 categories:
-  - repository
+  - Repository
 tags:
   - machine learning
   - python
