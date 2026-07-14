@@ -114,3 +114,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Global Background Override
+page:
+  background:
+    image: "/assets/images/background.png"
