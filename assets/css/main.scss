@@ -1,22 +1,21 @@
 ---
 # This blank front matter forces Jekyll to compile Sass.
 ---
-
+// 1. Load the core theme structure FIRST
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'contrast' }}"; 
+@import "minimal-mistakes";
 
 
 // 2. Inject your background styling cleanly underneath the theme layers
 body {
   background-image: linear-gradient(rgba(15, 23, 42, 0.85), rgba(15, 23, 42, 0.85)), url("/assets/images/cut_background.png") !important;
+  color: #FFFFFF !important; 
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
 }
 
-  // Force text colors to white for high contrast
-  color: #FFFFFF !important; 
-}
 
-// 1. Load the core theme structure FIRST
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'contrast' }}"; 
-@import "minimal-mistakes"; 
+
+ 
