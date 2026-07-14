@@ -4,11 +4,12 @@ title: "About"
 ---
 
 I am a published researcher. Holding a Master's Degree in Mathematics from Arkansas State University, and Ph.D. in Curriculum and Instruction with a focus on 'Mathematics Education' and 'Research Evaluation and Methodology' from University of Florida, I bring nearly a decade of experience in program evaluations, behavioral and psychological modeling studies. My expertise lies in applying advanced quantitative methods to large datasets, enabling organizations to derive meaningful insights and drive impactful decisions. Proficient in statistical software (Python, Stata, Mplus, SPSS) in:   
-- Data Cleaning,
+- Data Cleaning and Data Quality Assurance
 - Data Analysis (for Predictive and Causal Modeling)
-- Machine Learning, 
+- Machine Learning  
 - Interactive Data Visualization and 
-- Cross-Validation and Model Selection in diverse industrial contexts (such as using IBM Telco and Movielens datasets to derive actionable insights). Please check my publications and GitHub account (username: nalpako2027). 
+- Cross-Validation and Model Selection in diverse industrial contexts. Please check my publications and GitHub account.
+
 
 I have successfully applied the following analysis methods in my peer-reviewed publications and GitHub projects for correlational relationships, qualitative analysis, causal estimations, classification:  
 - Structural Equation Modeling
