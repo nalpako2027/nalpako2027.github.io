@@ -11,10 +11,10 @@
 # Site settings
 title: "Dr. Orhan Kaplan | Data Science Consulting"
 email: orhankaplan@gantep.edu.tr
-description: "Senior Data Scientist/Analyst & Consultant, Researcher, Mathematician, Predictive & Causal Modeling, Machine Learning."
+description: "Senior Data Scientist/Analyst & Consultant, Researcher, Mathematician, Predictive & Causal Modeling, Machine Learning"
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
