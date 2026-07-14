@@ -23,7 +23,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # https://wikipedia.org
 
 include:
   - _pages
@@ -39,32 +39,31 @@ plugins:
 
 author:
   name   : "Orhan Kaplan, PhD"
-  avatar : "/assets/images/bio_photo.jpg"
   bio    : >-
     Senior Data Scientist/Analyst & Consultant, Researcher, Academic, Mathematician, Predictive & Causal Modeling, Machine Learning.
     I am actively available for independent consulting engagements, freelance contract projects, and dedicated data science roles.
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/orhan-kaplan-phd-5a4a84212/"
+      url: "https://linkedin.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nalpako2027?tab=repositories"
+      url: "https://github.com"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?hl=en&user=1q5Kk4UAAAAJ&view_op=list_works&gmla=AO4B3juOxUjKIjKr3K2rC-U5QK2fUhKSEjeE1tM14_9Ct6Hn3Uh8zUCmcx42yVCKhlqX2o1e4N4dOGEd7MMWPVDe"
+      url: "https://google.com"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com"
 
 defaults:
   # _posts
@@ -78,3 +77,17 @@ defaults:
       comments: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
