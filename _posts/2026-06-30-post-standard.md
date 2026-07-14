@@ -18,6 +18,8 @@ Most businesses run A/B tests to measure impact between two groups. But those gr
 </div>
 
 
+
+
 That's where Quasi-experimental methods becomes powerful.
 
 Propensity Score Matching (PSM) is one of quasi-experimental methods that mimics a randomized experiment using observational data — matching treated and untreated groups on key theoretically relevant characteristics like age, income, or behavior patterns to eliminate selection bias.
