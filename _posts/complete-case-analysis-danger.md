@@ -1,4 +1,4 @@
-## Multiple Imputation and The Danger of "Just Dropping the Missing Cases"
+## Multiple Imputation and The Danger of "Just Dropping the Missing Cases" 🔍 
 
 Majority of researchers/data analysts in social sciences or relevant private sectors pull the easy button during analysis: let their statistical software (e.g., Stata or SPSS) quietly discard every row with a blank cell with respect to the variables of interest. It's called listwise deletion, or complete-case analysis. The sample shrinks, and they move on, feeling that that is a harmless move. And sometime it is! Some even go so far as to delete incomplete cases 'from the data' without any theoretical justification, or cherry-pick data to find 'significant results'. I will not discuss this, as it is tantamount to manipulating the data. This not only invalidates any results obtained, but is also completely unethical!
 
@@ -6,12 +6,12 @@ Anyway, "shrinking the sample a little" undersells what actually happens. Recent
 
 Moreover, my study was about whether mathematics teachers' deficit beliefs (TDB) influence students' long-term mathematics achievement. The huge reduction in the sample made me think: who are more likely to leave equity-related items unanswered?
 
-### The Sensitivity Check That Told a Bigger Story
+### ⚠️ The Sensitivity Check That Told a Bigger Story
 
 I imputed the data using Multiple Imputation by Chained Equations (MICE) and run the analysis on imputed data. As a robustness check, I ran the same regression on complete cases. The coefficient pattern looked broadly similar across specifications, which is reassuring on its face. 
 In the complete-case model, the TDB subgroup coefficients lost statistical significance due to larger standard errors. It would be tempting to read that as "the effect isn't really there." It's more accurate to read it as "we no longer have enough people to detect it." A sample cut by two-thirds doesn't just cost precision — it can quietly erase an effect that was real in the full data, simply by starving the model of power.
 
-### But Power Loss Was Only Half the Problem...
+### 📉 But Power Loss Was Only Half the Problem...
 
 Here's the harder question, and the one that actually matters for interpretation: *who* was excluded? If missingness were purely random noise, the shrunken sample would still be a fair, if smaller, mirror of the population. It isn't. Listwise deletion doesn't discard cases evenly — it discards them systematically, according to whatever process generated the missing data in the first place.
 
@@ -19,7 +19,7 @@ The study's independent variable (Early Algebra I placement) is not a neutral va
 
 So the study didn't stop at noticing the standard errors ballooned. It asked directly: are the excluded cases different in kind, not just in number?
 
-### Letting the data answer the question
+### 📊 Letting the Data Answer the Question
 
 For the post-hoc comparison, I flagged every complete case in the overall sample and compared its descriptive profile — using student weights — against every case that had been dropped due to missing data on at least one model variable.
 
@@ -41,7 +41,7 @@ The students who survived listwise deletion arrived with higher baseline achieve
 
 This is the mechanism by which complete-case analysis quietly biases a study: it doesn't announce itself as bias. It shows up as reduced significance, and it's easy to file that under "we just didn't have enough power." But when the missingness is entangled with the very demographic characteristics that predict the outcome of interest, what looks like a power problem is also a validity problem. The two are tangled together, and separating them requires exactly the kind of diagnostic comparison shown above.
 
-### Why the imputed estimates deserve more trust here, not less
+### ✅ Why The Imputed Estimates Deserve More Trust, Not Less
 
 Multiple imputation doesn't fix this by magic. It works by exploiting auxiliary information — everything the dataset does know about a student, even when one particular variable is missing — to generate plausible values under the missing-at-random assumption, then propagates the uncertainty from that process into the standard errors (Rubin, 1987; Van Buuren, 2018). When the auxiliary variables are well chosen, the resulting estimates draw on the full sample's demographic and academic diversity rather than only the subset lucky enough to have complete records.
 
@@ -49,7 +49,7 @@ That's not a minor technical preference. Francis Huang and Brian Keller, writing
 
 Newman's (2014) methodological guidance points in the same direction from a different angle: missing data can produce two distinct problems — biased parameter estimates and inaccurate standard errors or hypothesis tests — yet social scientists continue to reach for listwise and pairwise deletion, the more error-prone techniques, more often than the evidence would justify. This distinction is important for more than just statistical accuracy: 'The coefficients look similar' does not mean 'the model is unbiased', and a biased, underpowered estimate can be — and has been — misread or misused as evidence that inequalities are smaller than they actually are. This undermines the very equity arguments. 
 
-### The Takeaway
+### 🎯 The Takeaway
 
 Complete-case analysis isn't wrong because it's lazy. It's wrong because it makes an invisible assumption — that missingness is unrelated to the outcome you care about — and that assumption rarely survives contact with real educational data. Students who are missing achievement scores, SES information, or self-efficacy ratings are not a random subset of the population. They tend to be the students already facing the steepest odds, which means the analysis that drops them tends to understate the very disparities it set out to describe.
 
