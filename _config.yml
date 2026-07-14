@@ -58,19 +58,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Orhan Kaplan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Senior Data Scientist/Analyst & Consultant | Researcher | Academic | Mathematician | Predictive & Causal Modeling | Machine Learning"
+  bio    : "Senior Data Scientist/Analyst & Consultant, Researcher, Academic, Mathematician, Predictive & Causal Modeling, Machine Learning"
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/orhan-kaplan-phd-5a4a84212/"
+      target: "_blank"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+      target: "_blank"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=1q5Kk4UAAAAJ&hl=en"
+      target: "_blank"
 
 footer:
   links:
