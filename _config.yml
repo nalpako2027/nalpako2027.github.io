@@ -11,7 +11,7 @@
 # Site settings
 title: "Dr. Orhan Kaplan | Data Science Consulting"
 email: orhankaplan@gantep.edu.tr
-description: "Data science consulting, predictive analytics, and causal modeling solutions by Dr. Kaplan"
+description: "Senior Data Scientist/Analyst & Consultant, Researcher, Mathematician, Predictive & Causal Modeling, Machine Learning."
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
@@ -42,10 +42,9 @@ author:
   name   : "Orhan Kaplan, PhD"
   avatar : "/assets/images/bio_photo.jpg"
   bio    : >-
-    Senior Data Scientist/Analyst & Consultant, Researcher, Academic, Mathematician, Predictive & Causal Modeling, Machine Learning.
     I am actively available for independent consulting engagements, freelance contract projects, and dedicated data science roles.
     <br><br>
-    <img src="assets/images/university_logo1.png" style="max-width: 100%; height: auto; filter: brightness(0) invert(1);" alt="University Logo">  links:
+    <img src="assets/images/university_logo1.png" style="max-width: 100%; height: auto; filter: brightness(0) invert(1);" alt="University Logo">
 links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
