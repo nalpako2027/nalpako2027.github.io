@@ -40,7 +40,7 @@ plugins:
 author:
   name   : "Orhan Kaplan, PhD"
   avatar : "/assets/images/bio_photo.jpg"
-  bio    : "I am available for independent consulting, freelance contract projects, and dedicated senior data science roles."
+  bio    : "Available for independent consulting, freelance contract projects, and dedicated senior data science roles."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
