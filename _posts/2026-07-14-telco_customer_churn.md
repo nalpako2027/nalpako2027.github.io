@@ -1,5 +1,7 @@
 ---
 title: "Telco Customer Churn Analysis & Predictive Modeling Pipeline"
+layout: single
+show_excerpts: false
 categories:
   - Repository
 tags:
