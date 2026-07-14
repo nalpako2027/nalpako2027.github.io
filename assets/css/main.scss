@@ -2,8 +2,6 @@
 # This blank front matter forces Jekyll to compile Sass.
 ---
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
 
 body {
   background-color: #E2E8F0 !important;
@@ -13,3 +11,7 @@ body {
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
 }
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
