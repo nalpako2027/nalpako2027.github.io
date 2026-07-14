@@ -3,13 +3,29 @@ permalink: /about/
 title: "About"
 ---
 
-I have a master's degree in 'Mathematics' from Arkansas State University and earned my PhD from the University of Florida in 'Curriculum and Instruction' with a specialization in Mathematics Education and Research and Evaluation Methodology. I am currently completing a service commitment at Gaziantep University, which is tied to an overseas scholarship that supported my graduate education in the United States.
+I am a published researcher. Holding a Master's Degree in Mathematics from Arkansas State University, and Ph.D. in Curriculum and Instruction with a focus on 'Mathematics Education' and 'Research Evaluation and Methodology' from University of Florida, I bring nearly a decade of experience in program evaluations, behavioral and psychological modeling studies. My expertise lies in applying advanced quantitative methods to large datasets, enabling organizations to derive meaningful insights and drive impactful decisions. Proficient in statistical software (Python, Stata, Mplus, SPSS) in:   
+- Data Cleaning,
+- Data Analysis (for Predictive and Causal Modeling)
+- Machine Learning, 
+- Interactive Data Visualization and 
+- Cross-Validation and Model Selection in diverse industrial contexts (such as using IBM Telco and Movielens datasets to derive actionable insights). Please check my publications and GitHub account (username: nalpako2027). 
 
+I have successfully applied the following analysis methods in my peer-reviewed publications and GitHub projects for correlational relationships, qualitative analysis, causal estimations, classification:  
+- Structural Equation Modeling
+- Mediation and Moderation
+- Propensity Score Matching
+- Entropy Balancing
+- Fixed (and Random)-Effects Modeling
+- KNN Regression and Classification
+- Logistic Regression
+- Thematic Analysis  
+and testing Measurement Invariance and applying Imputation Methods 
 
-As a researcher specializing in large-scale data analysis and causal inference, my publications focuses on program and impact evaluations, educational equity, behavioral and psychological modeling, and cross-national evaluations in education. 
+I have experience using:   
+- Foundational inferential statistics (independent and paired t-test, ANOVA, ANCOVA, regression) and Non-parametric methods
+- CHAID Analysis
+- Regression Discontinuity Design
+- Bagging
+- Random Forest
 
-
-I have extensive experience with statistical software (Mplus, Stata, SPSS, and Dedoose) for quantitative/qualitative data analysis. I am currently strengthening my expertise in using Python to support evidence-based decision-making in academic and applied research contexts. I am HarvardX certified in Data Science and Machine Learning with Python. In addition to my established background as an educational researcher, I am actively expanding my GitHub repository with industry-relevant analyses and solutions.
-
-
-I am actively available for independent consulting engagements, freelance contract projects, and dedicated data science roles. I aim for partnerships with businesses to optimize data pipelines, validate predictive and causal machine learning models to drive business revenue with high-ROI analytical frameworks.
+If you're looking to navigate data challenges, evaluate programs effectively, or model behavioral and psychological constructs to create effective strategies, I'm here to help transform your data into actionable outcomes. 
