@@ -68,11 +68,14 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
-  # Global defaults for all pages & posts (Forces background across the whole site)
+  # Global defaults for all pages & posts
   - scope:
       path: ""
     values:
       background: "/assets/images/cut_background.png"
+      # Drops a sleek, semi-transparent dark tint blanket over the background image
+      overlay_color: "#0f172a"
+      overlay_filter: "0.85" 
   # _posts
   - scope:
       path: ""
@@ -91,10 +94,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
