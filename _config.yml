@@ -14,7 +14,7 @@ email: orhankaplan@gantep.edu.tr
 description: "Senior Data Scientist/Analyst & Consultant, Researcher, Mathematician, Predictive & Causal Modeling, Machine Learning"
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
