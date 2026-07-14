@@ -81,7 +81,7 @@ Guenther, P., Guenther, M., Ringle, C. M., Zaefarian, G., & Cartwright, S. (2023
 
 Huang, F., & Keller, B. (2025). Working with missing data in large-scale assessments. *Large-scale Assessments in Education, 13*(13). https://doi.org/10.1186/s40536-025-00248-9
 
-McEachin, A., Domina, T., & Penner, A. (2020). Understanding the effects of accelerated middle school algebra. *Journal of Research on Educational Effectiveness, 13*(1), 71–99.
+McEachin, A., Domina, T., & Penner, A. (2020). Heterogeneous effects of early Algebra across California middle schools. Journal of Policy Analysis and Management, 39(3), 772–800. https://doi.org/10.1002/pam.22202
 
 Newman, D. A. (2014). Missing data: Five practical guidelines. *Organizational Research Methods, 17*(4), 372–411. https://doi.org/10.1177/1094428114548590
 
