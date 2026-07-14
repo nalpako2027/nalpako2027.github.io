@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Majority of researchers/data analysts in social sciences or relevant private sectors pull the easy button during analysis: let their statistical software (e.g., Stata or SPSS) quietly discard every row with a blank cell with respect to the variables of interest. It's called listwise deletion, or complete-case analysis. The sample shrinks, and they move on, feeling that that is a harmless move. And sometime it is! Some even go so far as to delete incomplete cases 'from the data' without any theoretical justification, or cherry-pick data to find 'significant results'. I will not discuss this, as it is tantamount to manipulating the data. This not only invalidates any results obtained, but is also completely unethical!
+Majority of researchers/data analysts in social sciences or relevant private sectors pull the easy button during analysis: let their statistical software (e.g., Stata or SPSS) quietly discard every row with a blank cell with respect to the variables of interest. It's called listwise deletion, or complete-case analysis. The sample shrinks, and they move on, feeling that that is a harmless move. And sometime it is! A recent peer-reviewed article found that, since 2017, 33.1% of data anlaysts in business marketing research performed listwise deletion, another third of the sample didn't specify the method to handle missing data, and only 0.8% of the sample of the study used imputation (Guenther et al., 2023). Some even go so far as completely ignoring incomplete cases by deleting them 'from the raw data' without any theoretical justification, or cherry-pick data to find 'significant results'. I will not discuss the latter two cases, as they are tantamount to manipulating the data. This not only invalidates any results obtained, but is also completely unethical!
 
 Anyway, "shrinking the sample a little" undersells what actually happens. Recently, I conducted an analysis using High School Longitudinal Study (HSLS); running the regression model on complete cases alone cut the sample from over 19,000 students to just 6,368 — roughly a two-thirds reduction. That's not a minor footnote. It's the difference between a study and a shadow of one.
 
@@ -76,6 +76,8 @@ Although this analysis originates from educational research, its implications ca
 **References**
 
 Adelman, C. (2006). *The toolbox revisited: Paths to degree completion from high school through college*. U.S. Department of Education.
+
+Guenther, P., Guenther, M., Ringle, C. M., Zaefarian, G., & Cartwright, S. (2023). Improving PLS-SEM use for business marketing research. Industrial Marketing Management, 111, 127–142. https://doi.org/10.1016/j.indmarman.2023.03.010  
 
 Huang, F., & Keller, B. (2025). Working with missing data in large-scale assessments. *Large-scale Assessments in Education, 13*(13). https://doi.org/10.1186/s40536-025-00248-9
 
