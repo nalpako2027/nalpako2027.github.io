@@ -44,7 +44,11 @@ author:
   bio    : >-
     I am actively available for independent consulting engagements, freelance contract projects, and dedicated data science roles.
     <br><br>
-links:
+author:
+  name   : "Orhan Kaplan, PhD"
+  avatar : "/assets/images/bio_photo.jpg"
+  bio    : "I am actively available for independent consulting engagements, freelance contract projects, and dedicated data science roles."
+  links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/orhan-kaplan-phd-5a4a84212/"
