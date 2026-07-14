@@ -14,7 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Dr. Orhan Kaplan | Data Science Consulting"
-email:
+# Site settings
+title: Orhan KAPLAN, PhD
+minimal_mistakes_skin: contrast # High contrast dark slate background blocks with crisp white text
+logo: "/assets/images/university_logo1.png" # Puts your logo at the very top header navbar!
+
+email: orhankaplan@gantep.edu.tr
 description: "Data science consulting, predictive analytics, and causal modeling solutions by Dr. Kaplan"
 twitter_username: username
 github_username: username
@@ -60,8 +65,6 @@ author:
   bio    : >-
     Senior Data Scientist/Analyst & Consultant, Researcher, Academic, Mathematician, Predictive & Causal Modeling, Machine Learning.
     I am actively available for independent consulting engagements, freelance contract projects, and dedicated data science roles.
-    <br><br>
-    <img src="/assets/images/university_logo1.png" style="width: 70px; margin-right: 10px; filter: brightness(0) invert(1);" alt="University Logo 1">
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
