@@ -13,6 +13,15 @@ body {
   background-attachment: fixed !important;
 }
 
+  // Force text colors to white for high contrast
+  color: #FFFFFF !important; 
+}
+
+// Target all headings, navigation links, and archive text to be white
+h1, h2, h3, h4, h5, h6, p, a, .sidebar, .archive {
+  color: #FFFFFF !important;
+}
+
 // 1. Load the core theme structure FIRST
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'contrast' }}"; 
 @import "minimal-mistakes"; 
