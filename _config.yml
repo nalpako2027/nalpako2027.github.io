@@ -57,6 +57,10 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=1q5Kk4UAAAAJ&view_op=list_works&gmla=AO4B3juOxUjKIjKr3K2rC-U5QK2fUhKSEjeE1tM14_9Ct6Hn3Uh8zUCmcx42yVCKhlqX2o1e4N4dOGEd7MMWPVDe"
+    - label: "Upwork"
+      icon: "fas fa-fw fa-briefcase"
+      url: "https://www.upwork.com/freelancers/~01a77d224509343131"
+
 
 footer:
   links:
