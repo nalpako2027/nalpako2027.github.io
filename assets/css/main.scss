@@ -17,9 +17,9 @@ body {
 }
 
 // 3. Force all headings, sidebars, navigation links, and archive lists to turn white
-h1, h2, h3, h4, h5, h6, p, a, .sidebar, .archive, .masthead__menu-item a {
+h1, h2, h3, h4, h5, h6, p, a, span, small, time,
+.sidebar, .archive, .page__content, .page__meta, .archive__item-title, .archive__subtitle {
   color: #FFFFFF !important;
 }
-
 
  
