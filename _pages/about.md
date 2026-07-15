@@ -1,32 +1,23 @@
+
 ---
+layout: single
+title: "About Me"
 permalink: /about/
-title: "About"
+author_profile: true
 ---
 
-I am a published researcher. Holding a Master's Degree in Mathematics from Arkansas State University, and Ph.D. in Curriculum and Instruction with a focus on 'Mathematics Education' and 'Research Evaluation and Methodology' from University of Florida, I bring nearly a decade of experience in program evaluations, behavioral and psychological modeling studies. My expertise lies in applying advanced quantitative methods to large datasets, enabling organizations to derive meaningful insights and drive impactful decisions. Proficient in statistical software (Python, Stata, Mplus, SPSS) in:   
-- Data Cleaning and Data Quality Assurance
-- Data Analysis (for Predictive and Causal Modeling)
-- Machine Learning  
-- Interactive Data Visualization and 
-- Cross-Validation and Model Selection in diverse industrial contexts. Please check my publications and GitHub account.
+I am a Researcher, Academic, and Mathematician specializing in advanced statistical methodologies, predictive analytics, and causal inference modeling frameworks. My career bridges rigorous academic validation with data-driven industry solutions.
+
+### 🎓 Academic Background
+*   **Ph.D. in Curriculum and Instruction (specialization in ‘Mathematics Education’ and ‘Research Evaluation and Methodology’) | University of Florida**
+
+*   **M.S. E. in Mathematics | Arkansas State University**
 
 
-I have successfully applied the following analysis methods in my peer-reviewed publications and GitHub projects for correlational relationships, qualitative analysis, causal estimations, classification:  
-- Structural Equation Modeling
-- Mediation and Moderation
-- Propensity Score Matching
-- Entropy Balancing
-- Fixed (and Random)-Effects Modeling
-- KNN Regression and Classification
-- Logistic Regression
-- Thematic Analysis  
-and testing Measurement Invariance and applying Imputation Methods 
+### 🔬 Research Interests
+My foundational work centers on exposing and correcting the statistical misapplications that plague real-world data environments. This includes optimizing predictive modeling frameworks, handling missing data biases, and structural equation validations.
 
-I have experience using:   
-- Foundational inferential statistics (independent and paired t-test, ANOVA, ANCOVA, regression) and Non-parametric methods
-- CHAID Analysis
-- Regression Discontinuity Design
-- Bagging
-- Random Forest
+***
 
-If you're looking to navigate data challenges, evaluate programs effectively, or model behavioral and psychological constructs to create effective strategies, I'm here to help transform your data into actionable outcomes. 
+### 💼 Commercial Engagement
+For details regarding my corporate advisory work, industry modeling pipelines, or contract-based data engineering, please visit my dedicated **[ Services](/services/)** page.
