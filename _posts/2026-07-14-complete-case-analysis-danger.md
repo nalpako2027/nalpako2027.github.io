@@ -9,6 +9,8 @@ tags:
   - Multiple Imputation
   - Mathematics Achievement
   - Teacher Deficit Beliefs
+header:
+  teaser: "assets/images/missing.png"
 ---
 
 
