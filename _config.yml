@@ -40,7 +40,7 @@ plugins:
 author:
   name   : "Orhan Kaplan, PhD"
   avatar : "/assets/images/bio_photo.jpg"
-  bio    : "Senior Data Scientist/Analyst & Consultant | Researcher | Academic | Mathematician | Predictive & Causal Modeling | Machine Learning"
+  bio    : "Senior Data Scientist/Analyst & Consultant, Researcher, Academic, Mathematician, Predictive & Causal Modeling, Machine Learning"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
