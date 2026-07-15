@@ -66,4 +66,4 @@ Advanced Level Certification, ELS Language Centers, Houston, TX, USA
 
 
 ### 💼  Engagement
-For details regarding my advisory work, industry modeling pipelines, or contract-based data engineering, please visit my dedicated **[ Services](/services/)** page.
+For details regarding my advisory work, industry modeling pipelines, or short- and long-term collaborations, please visit my dedicated **[ Services](/services/)** page.
