@@ -11,7 +11,7 @@ I am a Researcher and Academic specializing in advanced statistical methodologie
 
 | Degree & Specialization | Institution |
 | :--- | :--- |
-| **Ph.D. in Curriculum and Instruction**<br>_with specialization in Mathematics Education and Research and Evaluation Methodology_ | University of Florida |
+| **Ph.D. in Curriculum and Instruction**<br>_with specialization in Mathematics Education & Research and Evaluation Methodology_ | University of Florida |
 | **M.S.E. in Mathematics** | Arkansas State University |
 
 
