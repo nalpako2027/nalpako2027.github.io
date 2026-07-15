@@ -10,6 +10,8 @@ tags:
   - knn
   - business insights
 link: "https://github.com/nalpako2027/telco_customer_churn_prediction_simulation"
+header:
+  teaser: "assets/images/roc_curve_comparison.png"
 ---
 
 
