@@ -11,6 +11,7 @@ tags:
   - Teacher Deficit Beliefs
 header:
   teaser: "assets/images/missing.png"
+  og_image: "https://nalpako2027.github.io/"
 ---
 
 
