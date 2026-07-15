@@ -65,5 +65,5 @@ graduation rates in public high schools. Procedia - Social and Behavioral Scienc
 Advanced Level Certification, ELS Language Centers, Houston, TX, USA
 
 
-### 💼 Commercial Engagement
-For details regarding my corporate advisory work, industry modeling pipelines, or contract-based data engineering, please visit my dedicated **[ Services](/services/)** page.
+### 💼  Engagement
+For details regarding my advisory work, industry modeling pipelines, or contract-based data engineering, please visit my dedicated **[ Services](/services/)** page.
