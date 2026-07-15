@@ -8,7 +8,8 @@ author_profile: true
 I am a Researcher and Academic specializing in advanced statistical methodologies, predictive analytics, causal inference modeling and qualitative research frameworks. My career bridges rigorous academic validation with data-driven industry solutions with practical insights.
 
 ### 🎓 Academic Background  
-|Ph.D. in Curriculum and Instruction* | University of Florida|  
+|Ph.D. in Curriculum and Instruction* | University of Florida| 
+|---|---|
 |M.S.E. in Mathematics | Arkansas State University|
 
 * with specialization in ‘Mathematics Education’ and ‘Research Evaluation and Methodology
