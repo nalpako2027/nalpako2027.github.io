@@ -12,7 +12,7 @@ I am a Researcher and Academic specializing in advanced statistical methodologie
 |---|---|
 |M.S.E. in Mathematics | Arkansas State University|
 
-* with specialization in ‘Mathematics Education’ and ‘Research Evaluation and Methodology
+* with specialization in ‘Mathematics Education’ and ‘Research and Evaluation Methodology
 
 ### 🔬 Research Interests
 As a researcher I specialize in large-scale data analysis to derive causal and predictive inference as well as qualitative research, focusing on program and impact evaluations, equity and critical thiking in education, behavioral and psychological modeling, and cross-national evaluations in education. In addition to my established background as an educational researcher, I am actively expanding my GitHub repository with industry-relevant analyses and solutions.  
