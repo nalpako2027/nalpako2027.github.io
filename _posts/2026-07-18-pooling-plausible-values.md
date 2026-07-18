@@ -9,7 +9,7 @@ tags:
   - logistic regression
   - knn
   - business insights
-link: "<script src="https://gist.github.com/nalpako2027/70883718f74081b78ade06cbb6b3e18f.js"></script>"
+link: "https://gist.github.com/nalpako2027/70883718f74081b78ade06cbb6b3e18f.js"
 
 ---
 
