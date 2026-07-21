@@ -12,6 +12,6 @@ link: "https://gist.github.com/nalpako2027/a8632b285e3a561c3e07714390500bc6"
 header:
   teaser: "assets/images/githubgist.png"
 ---
-
+  
 This gist provides a compact, from-scratch implementation — verified line-by-line against both the mice R source and the book's own formulas — along with a replica of van Buuren's influx-outflux diagnostic plot. Built and validated while working through TIMSS panel data imputation, where predictor selection across dozens of candidate auxiliary variables made this exact screening step necessary.  
 As a standalone implementation, this function can help analyst building their own imputation functions. For example, although autoimpute does have this feature, its imputation package does not allow weights (sample weights, replicate weights) to be combined into the MICE imputation.
