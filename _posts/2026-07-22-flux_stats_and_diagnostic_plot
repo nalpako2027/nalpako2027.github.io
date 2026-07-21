@@ -5,9 +5,9 @@ show_excerpts: false
 categories:
   - GithubGist
 tags:
-  - Pooling
-  - Rubins Rule
-  - Replicate Weights
+  - Influx/Outflux
+  - Imputation 
+  - Diagnostics
 link: "https://gist.github.com/nalpako2027/a8632b285e3a561c3e07714390500bc6"
 header:
   teaser: "assets/images/githubgist.png"
