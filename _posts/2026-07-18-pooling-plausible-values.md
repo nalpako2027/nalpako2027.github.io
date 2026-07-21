@@ -8,6 +8,7 @@ tags:
   - Pooling
   - Rubins Rule
   - Replicate Weights
+  - Diagnostics
 link: "https://gist.github.com/nalpako2027/70883718f74081b78ade06cbb6b3e18f"
 header:
   teaser: "assets/images/githubgist.png"
