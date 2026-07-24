@@ -46,4 +46,6 @@ https://lnkd.in/enEsxGkB
 
 I hope it proves useful for researchers, data scientists, and analysts working with missing data. Feedback and suggestions are always welcome!
 
-#DataScience #Statistics #MissingData #Imputation #MICE #PMM #Python
+<div style="text-align: center;">
+  <img src="/assets/images/mice_diagnostics.png" style="width: 70%; max-width: 100%; height: auto; margin: 20px 0; border-radius: 4px;" alt="experimental_vs_psm">
+</div>
