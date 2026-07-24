@@ -1,14 +1,15 @@
 ---
-title: "Telco Customer Churn Analysis & Predictive Modeling Pipeline"
+title: "A Diagnostics Package for Multiple Imputation by Chained Equations (using PMM)"
 layout: single
 show_excerpts: false
 categories:
   - Repository
 tags:
-  - machine learning
-  - logistic regression
-  - knn
-  - business insights
+  - Data Science
+  - Multiple Imputation
+  - Predictive Mean Matching
+  - Missing Data
+  - Python
 link: "https://github.com/nalpako2027/mice_imputation_diagnostics_helper.git"
 header:
   teaser: "assets/images/mice_process.png"
