@@ -19,7 +19,7 @@ header:
 
 A Diagnostics Package for Multiple Imputation by Chained Equations (MICE) using Predictive Mean Matching (PMM)
 
-📊 Missing data is an unavoidable challenge in survey and administrative datasets, and the way we handle it can substantially influence every downstream analysis and decisions based on analysis its results. 
+📊 Missing data is an unavoidable challenge in survey and administrative datasets, and the way we handle it can substantially influence every downstream analysis and decisions based on its results. 
 
 I started building this package while conducting a fixed-effects model analysis on TIMSS 2023 longitudinal data. During that project, I found that existing open-source implementations fell short in ways that mattered for both research and industry applications—for example, undocumented matching behavior, limited diagnostic capabilities, and a lack of support for survey design weights.
 
