@@ -1,5 +1,5 @@
 ---
-title: "Telco Customer Churn Analysis & Predictive Modeling Pipeline"
+title: "A Churn Prediction Pipeline for Subscription Retention Optimization"
 layout: single
 show_excerpts: false
 categories:
