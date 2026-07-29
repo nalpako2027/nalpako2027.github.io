@@ -1,5 +1,5 @@
 ---
-title: "A Churn Prediction Pipeline for Subscription Retention Optimization"
+title: "A Churn Prediction Pipeline and the Simulation of Customer Retention Strategies for Subscription Retention Optimization"
 layout: single
 show_excerpts: false
 categories:
