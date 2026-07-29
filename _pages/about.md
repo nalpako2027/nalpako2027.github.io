@@ -4,8 +4,12 @@ title: "About Me"
 permalink: /about/
 author_profile: true
 ---
-📥 **[Download my Resume/CV (PDF)](/assets/Orhan_Kaplan_CV.pdf)**
+📥 **[Download my Resume (PDF)](/assets/Resume_Orhan_Kaplan.pdf)**
+<a href="{{ '/assets/Orhan_Kaplan_CV.pdf' | relative_url }}" class="btn btn--primary btn--large" download>📥 Download Resume (PDF)</a>.
+
+📥 **[Download my Full CV (PDF)](/assets/Orhan_Kaplan_CV.pdf)**
 <a href="{{ '/assets/Orhan_Kaplan_CV.pdf' | relative_url }}" class="btn btn--primary btn--large" download>📥 Download CV (PDF)</a>. 
+
 
 
 I am a Researcher and Academic specializing in advanced statistical methodologies, predictive analytics, causal inference modeling and qualitative research frameworks. My career bridges rigorous academic validation with data-driven industry solutions with practical insights.
