@@ -5,7 +5,8 @@ permalink: /about/
 author_profile: true
 ---
 📥 **[Download my Resume/CV (PDF)](/assets/Orhan_Kaplan_CV.pdf)**
-<a href="/Orhan_Kaplan_CV.pdf" class="btn btn--primary btn--large" download>📥 Download CV (PDF)</a>
+<a href="{{ '/assets/Orhan_Kaplan_CV.pdf' | relative_url }}" class="btn btn--primary btn--large" download>📥 Download CV (PDF)</a>. 
+
 
 I am a Researcher and Academic specializing in advanced statistical methodologies, predictive analytics, causal inference modeling and qualitative research frameworks. My career bridges rigorous academic validation with data-driven industry solutions with practical insights.
 
@@ -18,7 +19,6 @@ I am a Researcher and Academic specializing in advanced statistical methodologie
 
 
 
-### 🔬 Research Interests
 I am a Senior Data Scientist and Research Specialist combining a rigorous Master’s degree in Mathematics from Arkansas State University with a PhD from the University of Florida specializing in Mathematics Education and Research and Evaluation Methodology. 
 
 With peer-reviewed publications and research conference presentations (both quantitative and qualitative) spanning 8 years of advanced R&D, I specialize in causal inference, observational studies, and behavioral modeling. I map messy and large user data into high-ROI analytical frameworks, helping organizations isolate true feature impact where standard A/B testing falls short.
