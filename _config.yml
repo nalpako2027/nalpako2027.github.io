@@ -40,7 +40,7 @@ plugins:
 author:
   name   : "Orhan Kaplan, PhD"
   avatar : "/assets/images/bio_photo.jpg"
-  bio    : "Senior Data Scientist & Quantitative UX Researcher | Causal Inference | Machine Learning | Data-Driven Decision-Making | PhD |"
+  bio    : "Senior Data Scientist & Quantitative UX Researcher, Causal Inference, Machine Learning, Data-Driven Decision-Making, PhD "
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
