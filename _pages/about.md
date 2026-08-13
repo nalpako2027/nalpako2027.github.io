@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 📥 **[Download my Resume (PDF)](/assets/Resume_Orhan_Kaplan.pdf)**
-<a href="{{ '/assets/Orhan_Kaplan_CV.pdf' | relative_url }}" class="btn btn--primary btn--large" download>📥 Download Resume (PDF)</a>.
+<a href="{{ '/assets/Resume_Orhan_Kaplan.pdf' | relative_url }}" class="btn btn--primary btn--large" download>📥 Download Resume (PDF)</a>.
 
 📥 **[Download my Full CV (PDF)](/assets/Orhan_Kaplan_CV.pdf)**
 <a href="{{ '/assets/Orhan_Kaplan_CV.pdf' | relative_url }}" class="btn btn--primary btn--large" download>📥 Download CV (PDF)</a>. 
