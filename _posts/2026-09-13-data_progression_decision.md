@@ -31,3 +31,7 @@ predictive model may not provide enough evidence to achieve the desired outcome.
 The progression from cross-sectional → longitudinal → causal is therefore not just about using more sophisticated 
 methods. It is about asking progressively more informative questions—and generating evidence that can better support 
 decisions and policy design. 🔍
+
+<div style="text-align: center;">
+  <img src="/assets/images/data_time.jpeg" style="width: 100%; max-width: 100%; height: auto; margin: 20px 0; border-radius: 4px;" alt="experimental_vs_psm">
+</div>
