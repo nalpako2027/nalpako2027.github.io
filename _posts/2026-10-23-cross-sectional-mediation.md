@@ -12,7 +12,6 @@ tags:
 header:
   teaser: "assets/images/mediation.jpeg"
 ---
-📊 The Problem with Cross-Sectional Mediation! ⚠️
 Lately, I have noticed a systemic pattern in psychology literature (and other social science disciplines as well): a massive wave of papers--published in high impact journals--attempting to claim statistical mediation (X  -> M -> Y) using cross-sectional data (some falls short of sufficiently acknowledging its limitations). More often than not, these models rely on tiny effect sizes to map out complex, directional human behaviors from a single snapshot in time—falsely implying causal directionality when true statistical mediation requires at least three distinct waves of data collection to properly establish the chronological timeline. ⏳
  
 I came across a paper that addresses this crisis 📌: "An alternative framework for nonexperimental cross-sectional mediation studies: Associational variable analysis." published in Psychological Methods. https://lnkd.in/d_uxBfBF
