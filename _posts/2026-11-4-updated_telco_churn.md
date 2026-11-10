@@ -36,4 +36,3 @@ I just updated my Telco churn project, and the biggest lesson wasn't about the m
 
 Limitation: the 20% save rate is an assumption, so these are upper-bound scenarios. The data show association, not causation. Next step: an A/B test with a no-offer control group.
 📂 Full code, notebooks and executive summary: https://lnkd.in/dNg9tE95
-I'd love feedback from anyone working in retention or marketing analytics. How do you estimate save rates before running a campaign? 🤔
